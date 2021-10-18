@@ -9,6 +9,6 @@ Run application
 
 `node app.js `
 
-![image](https://github.com/chatuphat/Web-Development-Server/Capture.JPG)
+![image](https://github.com/chatuphat/Web-Development-Server/blob/main/Capture.JPG)
 
 
